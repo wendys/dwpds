@@ -7,12 +7,5 @@ namespace nothinbutdotnetstore.web.core
     void process(object request);
   }
 
-    public class FrontController : IProcessIncomingRequests
-
-    {
-        public void process(object request)
-        {
-            throw new NotImplementedException();
-        }
-    }
+  public class ThisIsATestClass
 }
